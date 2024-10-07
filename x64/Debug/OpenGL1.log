@@ -1,0 +1,21 @@
+﻿  소스.cpp
+C:\Users\Jiyun Lee\source\repos\OpenGL1\소스.cpp(10,50): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Jiyun Lee\source\repos\OpenGL1\소스.cpp(12,50): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Jiyun Lee\source\repos\OpenGL1\소스.cpp(15,52): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Jiyun Lee\source\repos\OpenGL1\소스.cpp(16,52): warning C4305: '초기화 중': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Jiyun Lee\source\repos\OpenGL1\소스.cpp(82,31): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Jiyun Lee\source\repos\OpenGL1\소스.cpp(83,28): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Jiyun Lee\source\repos\OpenGL1\소스.cpp(89,35): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Jiyun Lee\source\repos\OpenGL1\소스.cpp(90,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Jiyun Lee\source\repos\OpenGL1\소스.cpp(95,34): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Jiyun Lee\source\repos\OpenGL1\소스.cpp(96,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Jiyun Lee\source\repos\OpenGL1\소스.cpp(101,34): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Jiyun Lee\source\repos\OpenGL1\소스.cpp(102,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Jiyun Lee\source\repos\OpenGL1\소스.cpp(107,33): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Jiyun Lee\source\repos\OpenGL1\소스.cpp(108,29): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Jiyun Lee\source\repos\OpenGL1\소스.cpp(133,34): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Jiyun Lee\source\repos\OpenGL1\소스.cpp(138,36): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\Users\Jiyun Lee\source\repos\OpenGL1\소스.cpp(158,36): warning C4305: '인수': 'double'에서 'GLclampf'(으)로 잘립니다.
+  OpenGL1.vcxproj -> C:\Users\Jiyun Lee\source\repos\OpenGL1\x64\Debug\OpenGL1.exe
+  'pwsh.exe'은(는) 내부 또는 외부 명령, 실행할 수 있는 프로그램, 또는
+  배치 파일이 아닙니다.
